@@ -17,4 +17,4 @@ I don't know why this piece of sh*t doesn't work outside p5 web editor. That's w
 So if you want to see full source code or play this stupid game - [click here](https://editor.p5js.org/Chingiz/sketches/by21ll8n).
  
  # Copyrights
-All rights of drawings in this project reserved by my sister, who helped me with this game.
+All rights of drawings in this project reserved by my little sister, who helped me with this game.
